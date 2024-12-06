@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-it was the age of wisdom, it was the age of foolishness. 
+it was the age of wisdom, it was the age of foolishness. blablabla
 =======
 it was the age of wisdom, it was the age of foolishness. umur yang bijak
 >>>>>>> after
