@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it was the best of spaces, it was the worst of spaces. 
+=======
+it was the best of spaces, it was the worst of spaces. ini adalah tempat terbaik
+>>>>>>> after

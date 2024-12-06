@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it was the spring of hope, it was the winter of despair. 
+=======
+it was the spring of hope, it was the winter of despair. musim semi penuh harapan
+>>>>>>> after
